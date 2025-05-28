@@ -9,3 +9,4 @@ musixian = {
             "BRAIN"
             ]
         }
+print(musixian["Kanaria"])
