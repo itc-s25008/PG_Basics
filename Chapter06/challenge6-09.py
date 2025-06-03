@@ -1,0 +1,5 @@
+number=("three "+"three "+"three")
+print(number)
+sand=("three "*3)
+sand=sand.strip()
+print(sand)
